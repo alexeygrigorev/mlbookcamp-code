@@ -10,13 +10,13 @@ Useful links:
 
 ## Machine Learning Zoomcamp
 
-<a href="course-zoomcamp"><img src="images/zoomcamp.jpg" /></a>
+<a href="http://mlzoomcamp.com"><img src="images/zoomcamp.jpg" /></a>
 
 Machine Learning Zoomcamp is a course based on the book
 
 * It's online and free
 * You can join at any moment
-* More information in the [course-zoomcamp](course-zoomcamp) folder
+* More information in the [course repository](http://mlzoomcamp.com)
 
 
 ## Reading Plan
