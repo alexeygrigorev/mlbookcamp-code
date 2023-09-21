@@ -23,4 +23,4 @@ Did you take notes? You can share them here (or in each unit separately)
 * [Notes from Luis Evaristo Caraballo de la Cruz](https://github.com/varocaraballo/ml-zoomcamp2022/blob/main/01%20-%20Introduction%20to%20Machine%20Learning/notes.md)
 * [Notes from Jon Areas](https://github.com/jxareas/Machine-Learning-Bookcamp-2022/blob/master/notes/01-introduction.md)
 * [Notes from Hareesh Tummala](https://github.com/tummala-hareesh/ml_zoomcamp_ht/blob/main/notes/week-1-notes.md)
-* Add your notes here
+* [Notes from Md Khalid Siddiqui](https://github.com/Khalidsid/mlzoomcamp2023/blob/29deaa158acacd3455b13aa4daa633267f28b694/Notes%20w1%20.pdf)
