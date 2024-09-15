@@ -1,10 +1,1 @@
-## Homework
-
-* For 2022 cohort homework, check [the 2022 cohort folder](../cohorts/2022/07-bento-production/homework.md)
-
-
-## Navigation
-
-* [Machine Learning Zoomcamp course](../)
-* [Session 7: Production-Ready Machine Learning (Bento ML)](./)
-* Previous: [Summary](08-summary.md)
+[Moved to new location](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/07-bentoml-production/homework.md)

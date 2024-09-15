@@ -1,1 +1,1 @@
-Content moved to [https://github.com/DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+[Moved to new location](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/README.md)
